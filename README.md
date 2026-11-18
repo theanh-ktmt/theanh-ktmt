@@ -9,16 +9,16 @@
 
 ---
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="9999" valign="top">
       <h3><img src="assets/icons/work.svg" width="20" height="20" alt="" /> Current work</h3>
       <p><strong>NVIDIA</strong> &middot; <code>current</code><br />
       Building agent loops to optimize Cosmos world model inference on NVIDIA GPUs.</p>
       <p><strong>Moreh</strong> &middot; <code>previously</code><br />
       Optimizing LLM serving with vLLM on AMD GPUs.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="9999" valign="top">
       <h3><img src="assets/icons/research.svg" width="20" height="20" alt="" /> Current research</h3>
       <p><strong><a href="https://github.com/theanh-ktmt/PGA-KD">PGA-KD</a></strong> &middot; <code>EMNLP 2026</code></p>
       <p><a href="https://aclanthology.org/2026.emnlp-main.257/">Read the paper &#8599;</a></p>
