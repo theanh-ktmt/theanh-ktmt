@@ -3,28 +3,28 @@
 </p>
 
 <p align="center">
-  <strong>Senior Deep Learning Algorithms Engineer at NVIDIA</strong><br />
-  <sub>Hanoi, Vietnam</sub>
-</p>
-
-<p align="center">
   I build agent loops that automatically optimize inference for Cosmos world models.<br />
   Previously at Moreh, I focused on high-performance LLM inference with vLLM on AMD GPUs.
 </p>
 
 ---
 
-### <img src="assets/icons/work.svg" width="20" height="20" alt="" /> Current approach
-
-- **NVIDIA** · `current`<br />
-  Building agent loops to optimize Cosmos world model inference on NVIDIA GPUs.
-- **Moreh** · `previously`<br />
-  Optimizing LLM serving with vLLM on AMD GPUs.
-
-### <img src="assets/icons/research.svg" width="20" height="20" alt="" /> Current research
-
-**[PGA-KD](https://github.com/theanh-ktmt/PGA-KD)** · `EMNLP 2026`<br />
-[Read the paper ↗](https://aclanthology.org/2026.emnlp-main.257/)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="assets/icons/work.svg" width="20" height="20" alt="" /> Current work</h3>
+      <p><strong>NVIDIA</strong> &middot; <code>current</code><br />
+      Building agent loops to optimize Cosmos world model inference on NVIDIA GPUs.</p>
+      <p><strong>Moreh</strong> &middot; <code>previously</code><br />
+      Optimizing LLM serving with vLLM on AMD GPUs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="assets/icons/research.svg" width="20" height="20" alt="" /> Current research</h3>
+      <p><strong><a href="https://github.com/theanh-ktmt/PGA-KD">PGA-KD</a></strong> &middot; <code>EMNLP 2026</code></p>
+      <p><a href="https://aclanthology.org/2026.emnlp-main.257/">Read the paper &#8599;</a></p>
+    </td>
+  </tr>
+</table>
 
 ### <img src="assets/icons/stack.svg" width="20" height="20" alt="" /> Toolbox
 
